@@ -23,7 +23,7 @@
 - **Tkinter**: Python's GUI library
 - **MySQL**: Database for storing doctor details
 
-##🛠️ How to Use
+## 🛠️ How to Use
 - **Doctor Registration**: Doctors can input their name, specialty, city, state, and contact number via a simple form.
 - **Search Function**: Users can search for doctors by specifying a specialty and a location (city or state) to find contact information.
 ---
