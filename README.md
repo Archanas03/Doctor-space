@@ -1,5 +1,5 @@
 <h1 align="center">Doctor's Space</h1>
-<h3 align="center">A Python-based desktop application for doctor registration and search</h3>
+<h3 align="center">A Python-based desktop application for doctor registration and search the Doctors world-wide</h3>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Python&message=3.x&color=blue&logo=python" height="25" alt="python" />
